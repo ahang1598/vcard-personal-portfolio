@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+86 13788839283
++1 (213) 352-2795
 
 Birthday
 June 23, 1982
 
 Location
-深圳, 广东, 中国
+Sacramento, California, USA
 
 # navbar
 
