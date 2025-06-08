@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = CLF
+CLF
+Designer
 
 Show Contacts
 
@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++86 13788839283
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+深圳, 广东, 中国
 
 # navbar
 
